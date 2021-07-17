@@ -1,0 +1,1 @@
+The following files are for Module 6 of the Smoothstack Essentials course.
